@@ -1,0 +1,32 @@
+.black {
+    color: black;
+}
+
+.blue {
+    color: blue;
+}
+
+.red {
+    color: red; 
+}
+
+.green {    
+    color: green;
+}
+
+.big {
+    font-size: 32px;
+}
+
+.small {
+    font-size: 16px;
+}
+
+.words li {
+    list-style: none;
+}
+
+.vertical_line {
+    border-left: 5px solid black;
+    height: 500px;
+}
